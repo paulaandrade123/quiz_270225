@@ -14,3 +14,5 @@ crear variable árboles (trees)
 crear la variable para el polígono (alamosNortePolygon) e ingresar las coordenadas que delimitan el barrio
 darle atributos al polígono como color, ancho, etc…
 buscar shapefile de los arboles en Bogotá
+
+nota: le envio el shapefile por drive
