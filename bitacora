@@ -1,0 +1,16 @@
+Crear carpeta en visual studio code
+crear las subcarpetas .html, .js y .css
+iniciar sesión en github y crear un repositorio
+iniciar repositorio y en el terminal configurar usuario y correo electronico
+enlazar el repositorio con el url
+crear un commit
+crear un token en github
+subir el commit con el token
+en index crear una estructura de documento (doc)
+ingresar el título de la página
+enlazar la hoja de program.js 
+en program.js crear la variable para el mapa (map) y con .setview ingresar las coordenadas del lugar en estudio
+crear variable árboles (trees)
+crear la variable para el polígono (alamosNortePolygon) e ingresar las coordenadas que delimitan el barrio
+darle atributos al polígono como color, ancho, etc…
+buscar shapefile de los arboles en Bogotá
